@@ -7,6 +7,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import mysql.connector
 
+#This is Billing Software for Hotels
 
 def addProductDetails(list):
 
