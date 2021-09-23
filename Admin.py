@@ -8,7 +8,7 @@ from logging import error
 from datetime import date
 
 
-#This is the Admin Panel code With Another Edit
+#This is the Admin Panel code
 
 def loginUser(req):
     try:
